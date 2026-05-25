@@ -10,8 +10,4 @@ A simple static landing page for a Product Management System built using HTML, C
 - Clean UI design
 - Beginner-friendly project structure
 
-## Technologies Used
 
-- HTML5
-- CSS3
-- JavaScript
